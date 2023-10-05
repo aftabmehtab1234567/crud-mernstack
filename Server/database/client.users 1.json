@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "651d1b70a3cded9aa44d0743"
+  },
+  "firstname": "vika",
+  "lastname": "verma",
+  "email": "vikas@gmail.com",
+  "password": "123456",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651d1d9ea3cded9aa44d074a"
+  },
+  "firstname": "kiya singh",
+  "lastname": "swaroop",
+  "email": "kiya@gmail.com",
+  "password": "123456",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8e7edfe28fcdb3dd518d"
+  },
+  "firstname": "aftab",
+  "lastname": "alam",
+  "email": "aftabalam9008@gmail.com",
+  "password": "123456",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8e8cdfe28fcdb3dd5191"
+  },
+  "firstname": "shivang",
+  "lastname": "mishra",
+  "email": "devteam@difm.tech",
+  "password": "123456",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8e9ddfe28fcdb3dd5195"
+  },
+  "firstname": "kiya singh",
+  "lastname": "Kumar",
+  "email": "kiya@gmail.com",
+  "password": "123456",
+  "__v": 0
+}]
