@@ -24,7 +24,7 @@ const Navbar = () => {
           <Tabs>All User</Tabs>
         </Link>
         <Link to="/adduser" style={{ textDecoration: 'none', color: 'white' }}>
-          <Tabs>Add User</Tabs>
+          <Tabs>Signup</Tabs>
         </Link>
       </Toolbar>
     </Header>

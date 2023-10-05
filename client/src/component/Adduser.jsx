@@ -43,7 +43,7 @@ const Adduser = () => {
   return (
     <Container>
       <Typography variant="h4" component="h2">
-        Add User
+        Sign Up
       </Typography>
 
       <FormControl>
